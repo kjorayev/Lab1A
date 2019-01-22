@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="demo">Demo</string>
+    <string name="inputHint">Enter your text here</string>
+    <string name="textview">TextView</string>
+    <string name="_50">50</string>
+    <string name="increment">increment</string>
+    <string name="decrement">decrement</string>
+</resources>
